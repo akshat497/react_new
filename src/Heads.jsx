@@ -1,7 +1,14 @@
+import {Logo,Icon} from "./logo";
 
 
-export default function Heads() {
+export default function Heads({name}) {
   return (
-    <div>Heads</div>
+   <>
+     <div>{name}
+    </div>
+    <Logo name={name}/>
+    <Icon/>
+    
+   </>
   )
 }
