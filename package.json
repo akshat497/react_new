@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-react-app",
+=======
+  "name": "myapp",
+>>>>>>> 47194c46849211df8c2ca288806dcf6305fed7b4
   "private": true,
   "version": "0.0.0",
   "type": "module",
