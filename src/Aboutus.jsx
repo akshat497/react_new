@@ -3,6 +3,6 @@ import Header from './Header'
 
 export default function Aboutus() {
   return (
-    <div><Header/>aboutus code </div>
+    <div>about us code </div>
   )
 }
